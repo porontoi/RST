@@ -1,0 +1,28 @@
+#info {
+  padding: 5% 27% 0;
+}
+
+
+#Elementary {
+  padding: 0 27%;
+}
+
+#High-School {
+  padding: 0 27%;
+}
+
+#STI-College {
+  padding: 0 27%;
+}
+
+#San-Carlos {
+  padding: 0 27% 5%;
+}
+
+h1 {
+  background-color: #bbbcbc;
+}
+
+.name {
+  font-weight: bold;
+}
